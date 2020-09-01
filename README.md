@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I’m Mic, an ex-suit turned product engineer with over five years of experience in web development and product design.
 
-I’m passionate about working with others to build products people love, using best-in-class tools and technologies. I’m particularly keen on UX design, test-driven development and a well-made Negroni 🥃 😁
+I’m passionate about working with others to build products people love, using best-in-class tools and technologies. I’m particularly keen on UX design, test-driven development and a well-made plate of pasta 🍝
 
-- 🔭 I’m currently in between jobs and honing my programming skills
+- 🔭 I’m currently contracting at Facebook
 - 💬 Ask me about working in early-stage start-ups, React and React Native, TDD...
 - 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/mic-cassano/) or [Twitter](https://twitter.com/mic_css)
 - 😄 Pronouns: he/him
