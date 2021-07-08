@@ -19,7 +19,7 @@ I’m Mic, an ex-suit turned product engineer with over five years of experience
 
 I’m passionate about working with others to build products people love, using best-in-class tools and technologies. I’m particularly keen on UX design, test-driven development and a proper plate of pasta 🍝
 
-- 🔭 I’m currently contracting at Facebook
+- 🔭 I work at [Shopify](https://github.com/Shopify) as a Senior Frontend Developer
 - 💬 Ask me about working in early-stage start-ups, React and React Native, TDD...
 - 📫 How to reach me: send me a message on [Twitter](https://twitter.com/mic_css) or [LinkedIn](https://www.linkedin.com/in/mic-cassano/)
 - 😄 Pronouns: he/him
