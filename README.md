@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Mic, an ex-suit turned product engineer with over five years of experience in web development and product design.
+I’m Mic, a product engineer with over five years of experience in web development and product design.
 
-I’m passionate about working with others to build products people love, using best-in-class tools and technologies. I’m particularly keen on UX design, test-driven development and a proper plate of pasta 🍝
+I love building mission-driven digital products that people love, using modern web technologies. I’m particularly keen on UX design, test-driven development and a proper plate of pasta 🍝
 
 - 🔭 I work at [Shopify](https://github.com/Shopify) as a Senior Frontend Developer
 - 💬 Ask me about working in early-stage start-ups, React and React Native, TDD...
