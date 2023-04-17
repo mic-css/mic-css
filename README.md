@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I’m Mic, a product engineer with over five years of experience in web development and product design.
 
-I love building mission-driven digital products that people love, using modern web technologies. I’m particularly keen on UX design, test-driven development and a proper plate of pasta 🍝
+I build mission-driven digital products using modern web technologies and have a fondness for UX design.
 
-- 🔭 I work at [Shopify](https://github.com/Shopify) as a Senior Frontend Developer
+- 🔭 I work at [Shopify](https://github.com/Shopify) as a senior frontend developer
 - 💬 Ask me about working in early-stage start-ups, React and React Native, TDD...
-- 📫 How to reach me: send me a message on [Twitter](https://twitter.com/mic_css) or [LinkedIn](https://www.linkedin.com/in/mic-cassano/)
+- 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/mic-cassano/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to have a talking parrot called Romeo
